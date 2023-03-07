@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T13:40:23 IST" name="Default suite" finished-at="2023-03-06T13:40:53 IST" duration-ms="29444">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T13:40:23 IST" name="Default test" finished-at="2023-03-06T13:40:53 IST" duration-ms="29444">
+      <class name="TrelloEndToEndTest">
+        <test-method is-config="true" signature="configBeforeMethod()[pri:0, instance:TrelloEndToEndTest@35aea049]" started-at="2023-03-06T13:40:23 IST" name="configBeforeMethod" finished-at="2023-03-06T13:40:29 IST" duration-ms="5755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMethod -->
+        <test-method signature="login()[pri:0, instance:TrelloEndToEndTest@35aea049]" started-at="2023-03-06T13:40:29 IST" name="login" finished-at="2023-03-06T13:40:52 IST" duration-ms="23114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="configAfterMethod()[pri:0, instance:TrelloEndToEndTest@35aea049]" started-at="2023-03-06T13:40:52 IST" name="configAfterMethod" finished-at="2023-03-06T13:40:53 IST" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+      </class> <!-- TrelloEndToEndTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
